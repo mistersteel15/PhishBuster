@@ -1,0 +1,49 @@
+From: calendar@zoom-meeting-secure.ru
+To: user@your-company.local
+Subject: =?UTF-8?B?4pyTIE5vdm9lIHZzdHJlY2hhOiBTdHJhdGVnaWNlc2tpZSBwbGFuaXIgbmEgUSM=?=
+Date: Tue, 20 May 2026 15:30:11 +0300
+Message-ID: <mtg-9912@zoom-meeting-secure.ru>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_MTG_005"
+
+------=_Part_MTG_005
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Здравствуйте,
+
+Вы приглашены на стратегическое планирование на Q3.
+Организатор: Сидоров К.В. (Генеральный директор)
+Дата: 21 мая 2026, 10:00 (МСК)
+Ссылка для подключения: http://training-phishing-test.local/zoom/join/884-221-990
+
+Пожалуйста, подтвердите участие и установите клиент для безопасного входа.
+------=_Part_MTG_005
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="font-family:Helvetica, Arial, sans-serif; background:#f4f4f4; margin:0; padding:20px;">
+<div style="max-width:600px; margin:0 auto; background:#fff; border-radius:6px; overflow:hidden;">
+<div style="background:#2d8cf0; color:#fff; padding:20px; text-align:center;">
+  <h2 style="margin:0;">📅 Приглашение на встречу</h2>
+</div>
+<div style="padding:25px;">
+<p><strong>Тема:</strong> Стратегическое планирование на Q3</p>
+<p><strong>Организатор:</strong> Сидоров К.В. (Генеральный директор)</p>
+<p><strong>Время:</strong> 21 мая 2026, 10:00 (МСК)</p>
+<div style="background:#eef4ff; padding:15px; border-radius:4px; margin:15px 0; text-align:center;">
+  <p style="margin:0 0 10px 0; font-weight:bold;">Ссылка для подключения:</p>
+  <a href="http://training-phishing-test.local/zoom/join/884-221-990" style="font-size:16px; color:#2d8cf0; text-decoration:underline;">Присоединиться к конференции</a>
+</div>
+<p style="font-size:13px; color:#555;">⚠️ Для участия требуется авторизация в системе Zoom. Нажмите кнопку выше.</p>
+</div>
+<div style="background:#fafafa; padding:15px; text-align:center; font-size:12px; color:#888;">
+  Zoom Video Communications, Inc.<br>calendar@zoom-meeting-secure.ru
+</div>
+</div>
+</body>
+</html>
+------=_Part_MTG_005--

@@ -1,0 +1,42 @@
+From: sharepoint@cloud-docs-sync.ru
+To: user@your-company.local
+Subject: =?UTF-8?B?0J3QvtC80L7RgiDQv9C+0LTRgdC60LjQuSDRgdGC0LDQvdCw0YHRgtC40L3QuNC9INC60YDQsA==?=
+Date: Tue, 20 May 2026 11:20:08 +0300
+Message-ID: <share-4482@cloud-docs-sync.ru>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_CLOUD_003"
+
+------=_Part_CLOUD_003
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Здравствуйте,
+
+Иванов А.С. (руководитель отдела) поделился с вами папкой: "Q2_Отчёты_2026_ФИНАЛ".
+Вам предоставлен доступ на редактирование. Для просмотра и синхронизации файлов необходимо подтвердить учётную запись.
+
+Перейти к папке: http://training-phishing-test.local/cloud/share/auth
+
+С уважением, Microsoft SharePoint
+------=_Part_CLOUD_003
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="font-family:'Segoe UI',Tahoma,sans-serif; background:#f3f2f1; margin:0; padding:20px;">
+<div style="max-width:600px; margin:0 auto; background:#fff; padding:30px; border-radius:8px; box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+<div style="color:#0078d4; font-size:16px; margin-bottom:20px;">📁 Общий доступ к файлу</div>
+<p><strong>Иванов А.С.</strong> поделился с вами папкой:</p>
+<div style="background:#eff6fc; padding:12px; border-radius:4px; margin:10px 0;">
+  <strong>Q2_Отчёты_2026_ФИНАЛ</strong> <span style="color:#666;">(12 файлов, 45 МБ)</span>
+</div>
+<p style="color:#666; font-size:14px;">Для просмотра и синхронизации необходимо подтвердить учётную запись в корпоративной среде.</p>
+<p style="margin:25px 0;"><a href="http://training-phishing-test.local/cloud/share/auth" style="background:#0078d4; color:#fff; padding:12px 28px; text-decoration:none; border-radius:4px; font-weight:500;">Открыть в SharePoint</a></p>
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:20px 0;">
+<p style="font-size:12px; color:#999;">Microsoft Corporation | OneDrive / SharePoint Online<br>Это уведомление сгенерировано автоматически.</p>
+</div>
+</body>
+</html>
+------=_Part_CLOUD_003--

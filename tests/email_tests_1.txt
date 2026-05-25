@@ -1,0 +1,48 @@
+phish_1.eml
+phish_2.eml
+phish_3.eml
+phish_4.eml
+phish_5.eml
+phish_6.eml
+phish_7.eml
+phish_8.eml
+phish_9.eml
+phish_10.eml
+phish_11.eml
+phish_12.eml
+phish_13.eml
+phish_14.eml
+phish_15.eml
+test_phish.eml
+
+_zero_ верит в вас! Защитите общий ударный режим..eml
+Новые акции на просмотренные вами товары.eml
+Оповещение системы безопасности.eml
+Оповещение+о+проведении+технических+работ.eml
+На+Диске+осталось+мало+места.eml
+Supercell ID — обнаружено новое устройство.eml
+Платформа Талант_ код подтверждения.eml
+Запрос от руководителя.eml 
+Вас пригласили в чат-группу.eml
+Ваш код - 27737.eml
+Календарь теперь в Телемосте.eml
+Мы сохранили вашу корзину и предлагаем продолжить оформление заказа.eml
+Новая Алиса AI_ от слов к действиям.eml
+Пройдите урок.eml 
+Регистрация на курс «Алгоритмы_ шаг за шагом» Яндекс Лицея.eml
+Регистрация на олимпиаду «Кубок Яндекс Образования».eml
+
+
+Welcome to GeoGuessr! Ready to Explore the World.eml
+Get+your+Community+Avatar+Outfit!.eml
+Первое обновление версии в древнегреческом стиле.eml
+Your Modrinth email was changed.eml
+Обновление условий использования.eml
+Message17568662270081870785.eml
+Message17663761721819031286.eml
+Message17763399371016566049.eml
+Message17777872801392222151.eml
+Message17781517601536163800.eml
+Message17782354110456083648.eml
+Message17788350291518686733.eml
+

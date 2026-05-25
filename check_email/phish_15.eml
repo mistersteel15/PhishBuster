@@ -1,0 +1,84 @@
+From: customs@delivery-customs-clearance.ru
+To: user@your-company.local
+Subject: =?UTF-8?B?4pyTIE90cHJhdmxlbmllIG5lIG1vemhldCBieXQgZG9zdGF2bGVubyAtIHRyZWJ1ZXRzYSB1cGxhdGEgdGFtb3poZW5ub3kgcG9zaGxpbnk=?=
+Date: Tue, 20 May 2026 17:20:18 +0300
+Message-ID: <customs-fee-5533@delivery-customs-clearance.ru>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_CUSTOMS_002"
+
+------=_Part_CUSTOMS_002
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Уважаемый получатель,
+
+Ваше международное отправление (трек-номер: RU789456123CN) задержано на таможенном оформлении.
+
+Причина: Превышение лимита стоимости для беспошлинного ввоза.
+Сумма таможенной пошлины: 1 240 ₽
+
+Для продолжения доставки необходимо оплатить пошлину в течение 24 часов. После оплаты посылка будет передана курьеру в течение 1–2 рабочих дней.
+
+Оплатить пошлину онлайн: http://training-phishing-test.local/customs/pay/RU789456123CN
+
+Внимание: Если оплата не поступит до 21.05.2026, отправление будет возвращено отправителю.
+
+Служба таможенного оформления
+------=_Part_CUSTOMS_002
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="font-family:Arial, sans-serif; color:#333; background:#f9f9f9; margin:0; padding:20px;">
+<div style="max-width:600px; margin:0 auto; background:#fff; border-radius:8px; overflow:hidden; box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+  
+  <!-- Header -->
+  <div style="background:linear-gradient(135deg, #1a5276, #2e86c1); padding:25px; text-align:center;">
+    <h2 style="color:#fff; margin:0; font-size:22px;">📦 Статус отправления</h2>
+  </div>
+  
+  <!-- Body -->
+  <div style="padding:30px;">
+    <p><strong>Уважаемый получатель,</strong></p>
+    <p>Ваше международное отправление задержано на таможенном оформлении.</p>
+    
+    <div style="background:#e8f4fd; border:1px solid #aed6f1; padding:15px; border-radius:6px; margin:20px 0;">
+      <p style="margin:0 0 10px 0;"><strong>📋 Детали отправления:</strong></p>
+      <table style="width:100%; font-size:14px;">
+        <tr><td style="padding:3px 0;">Трек-номер:</td><td style="font-weight:600;">RU789456123CN</td></tr>
+        <tr><td style="padding:3px 0;">Статус:</td><td style="color:#e74c3c; font-weight:600;">⏸ Задержано таможней</td></tr>
+        <tr><td style="padding:3px 0;">Причина:</td><td>Превышение лимита стоимости</td></tr>
+        <tr><td style="padding:3px 0;">Пошлина:</td><td style="font-size:18px; font-weight:bold; color:#27ae60;">1 240 ₽</td></tr>
+      </table>
+    </div>
+    
+    <div style="background:#fff3cd; border-left:4px solid #ffc107; padding:12px; margin:20px 0;">
+      <strong>⏰ Срок оплаты:</strong> до 21 мая 2026, 17:20 (МСК)<br>
+      <small>После оплаты посылка будет передана курьеру в течение 1–2 рабочих дней.</small>
+    </div>
+    
+    <p style="text-align:center; margin:25px 0;">
+      <a href="http://training-phishing-test.local/customs/pay/RU789456123CN" 
+         style="background:#27ae60; color:#fff; padding:14px 32px; text-decoration:none; border-radius:6px; font-weight:600; display:inline-block;">
+        Оплатить пошлину онлайн
+      </a>
+    </p>
+    
+    <p style="font-size:13px; color:#7f8c8d; text-align:center;">
+      ⚠️ При неуплате отправление будет автоматически возвращено отправителю.
+    </p>
+  </div>
+  
+  <!-- Footer -->
+  <div style="background:#f8f9fa; padding:20px; text-align:center; font-size:12px; color:#666; border-top:1px solid #e0e0e0;">
+    Служба таможенного оформления международных отправлений<br>
+    customs@delivery-customs-clearance.ru<br>
+    <em>Данное уведомление сгенерировано автоматически. Не отвечайте на это письмо.</em>
+  </div>
+  
+</div>
+</body>
+</html>
+------=_Part_CUSTOMS_002--

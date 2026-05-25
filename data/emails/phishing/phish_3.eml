@@ -1,0 +1,24 @@
+From: "Федеральная налоговая служба" <noreply@nalog-gov.ru>
+To: citizen@example.com
+Subject: Ваша компенсация в размере 18 700 руб. – требуется подтверждение
+Date: Mon, 11 May 2026 14:45:00 +0300
+Content-Type: multipart/mixed; boundary="boundary_example"
+
+--boundary_example
+Content-Type: text/plain; charset=utf-8
+
+Уважаемый налогоплательщик!
+
+По результатам камеральной проверки вам начислена компенсация в сумме 18 700 рублей.
+Для получения средств скачайте и заполните прилагаемую форму, затем верните её нам.
+
+ВНИМАНИЕ: если вы не подтвердите свои реквизиты в течение 2 дней, выплата будет аннулирована.
+
+Приложение: Форма_возврата_НДФЛ.zip
+
+--boundary_example
+Content-Type: application/zip; name="Форма_возврата_НДФЛ.zip"
+Content-Transfer-Encoding: base64
+
+UEsDBAoAAAAA... (здесь была бы реальная base64-строка вредоносного ZIP)
+--boundary_example--

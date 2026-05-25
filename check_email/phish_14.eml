@@ -1,0 +1,81 @@
+From: noreply@microsoft-security-alert.ru
+To: user@your-company.local
+Subject: =?UTF-8?B?8J+TjiBTZWN1cml0eSBhbGVydDogbmVvYnljaG5heSBwcm92ZXJrYSBhY3Rpdm5vc3RpIGF1dGVudGlmaWthY2lp?=
+Date: Tue, 20 May 2026 16:45:33 +0300
+Message-ID: <o365-sec-alert-7721@microsoft-security-alert.ru>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_O365_SEC_001"
+
+------=_Part_O365_SEC_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Здравствуйте,
+
+Система безопасности Microsoft 365 обнаружила необычную активность в вашей учётной записи:
+• Вход из нового устройства: "Windows Desktop — Москва"
+• Время: 20 мая 2026, 16:30 (МСК)
+• Расположение: Россия, Москва (неизвестный IP)
+
+Если это были не вы, ваша учётная запись может быть скомпрометирована. Для защиты данных необходимо немедленно подтвердить личность и сбросить пароль.
+
+Подтвердить активность: http://training-phishing-test.local/o365/security/verify
+
+Если вы не выполните проверку в течение 2 часов, доступ к почте и OneDrive будет временно ограничен.
+
+Служба безопасности Microsoft 365
+------=_Part_O365_SEC_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="font-family:'Segoe UI',Tahoma,Arial,sans-serif; color:#242424; line-height:1.6; margin:0; padding:0;">
+<div style="max-width:600px; margin:0 auto; background:#fff;">
+  <!-- Header -->
+  <div style="background:#0078d4; padding:20px; text-align:center;">
+    <span style="color:#fff; font-size:20px; font-weight:600;">🔐 Microsoft 365 Security</span>
+  </div>
+  
+  <!-- Body -->
+  <div style="padding:30px;">
+    <p><strong>Здравствуйте,</strong></p>
+    <p>Система безопасности <strong>Microsoft 365</strong> обнаружила необычную активность в вашей учётной записи:</p>
+    
+    <div style="background:#f8f8f8; border-left:4px solid #0078d4; padding:15px; margin:20px 0;">
+      <table style="width:100%; font-size:14px;">
+        <tr><td style="padding:4px 0;"><strong>📱 Устройство:</strong></td><td>Windows Desktop — Москва</td></tr>
+        <tr><td style="padding:4px 0;"><strong>🕐 Время:</strong></td><td>20 мая 2026, 16:30 (МСК)</td></tr>
+        <tr><td style="padding:4px 0;"><strong>🌍 Расположение:</strong></td><td>Россия, Москва (неизвестный IP)</td></tr>
+      </table>
+    </div>
+    
+    <p style="background:#fff4ce; padding:12px; border-radius:4px;">
+      ⚠️ <strong>Если это были не вы</strong>, ваша учётная запись может быть скомпрометирована.
+    </p>
+    
+    <p>Для защиты корпоративных данных необходимо немедленно подтвердить личность:</p>
+    
+    <p style="text-align:center; margin:25px 0;">
+      <a href="http://training-phishing-test.local/o365/security/verify" 
+         style="background:#0078d4; color:#fff; padding:14px 32px; text-decoration:none; border-radius:4px; font-weight:600; display:inline-block;">
+        Подтвердить активность
+      </a>
+    </p>
+    
+    <p style="font-size:13px; color:#666;">
+      ⏰ Срок выполнения: <strong>2 часа</strong>. После истечения времени доступ к Outlook и OneDrive будет временно ограничен до прохождения верификации.
+    </p>
+  </div>
+  
+  <!-- Footer -->
+  <div style="background:#f3f2f1; padding:20px; text-align:center; font-size:12px; color:#666;">
+    Служба безопасности Microsoft 365<br>
+    noreply@microsoft-security-alert.ru<br>
+    <em>Это автоматическое уведомление. Не отвечайте на данное письмо.</em>
+  </div>
+</div>
+</body>
+</html>
+------=_Part_O365_SEC_001--

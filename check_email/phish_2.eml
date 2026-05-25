@@ -1,0 +1,16 @@
+From: "IT Support Dept" <helpdesk@company-secure.net>
+To: employee@company.com
+Subject: Срочная смена корпоративного пароля
+Date: Tue, 11 May 2026 11:20:00 +0300
+Content-Type: text/html; charset=utf-8
+
+<html>
+<body style="font-family: Calibri, sans-serif;">
+<p>Здравствуйте, <b>сотрудник</b>.</p>
+<p>В связи с утечкой паролей в нашей доменной сети, <b>всем пользователям необходимо сменить пароль до 12:00 сегодняшнего дня</b>.</p>
+<p>Перейдите на страницу смены пароля по ссылке и следуйте инструкции:</p>
+<p><a href="http://it-support.company.com/reset">Изменить пароль сейчас</a></p>
+<p>После смены пароля перезагрузите компьютер.</p>
+<p>Спасибо,<br><i>Департамент информационной безопасности</i></p>
+</body>
+</html>

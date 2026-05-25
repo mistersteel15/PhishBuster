@@ -1,0 +1,37 @@
+From: accounting@vendor-invoice-pro.ru
+To: finance@your-company.local
+Subject: =?UTF-8?B?SW52b2ljZSArMjAyNi0wNTIwOiBQcm9za3VybSBvcGxhdHkgc2NoZXRhICM3ODkxMg==?=
+Date: Tue, 20 May 2026 09:45:22 +0300
+Message-ID: <inv-78912@vendor-invoice-pro.ru>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_INV_002"
+
+------=_Part_INV_002
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Добрый день, финансовый отдел!
+
+Во вложении находится обновлённый счёт за оказанные услуги в апреле 2026 г. В связи с изменением налогового резидентства компании просим провести оплату до 16:00 сегодня, чтобы избежать начисления пени и приостановки поставок.
+
+Реквизиты указаны в документе: http://training-phishing-test.local/finance/invoice/78912.pdf
+
+С уважением, ООО "ЛогистикГрупп"
+------=_Part_INV_002
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="font-family:Calibri, Arial, sans-serif; color:#333;">
+<p><strong>Добрый день, финансовый отдел!</strong></p>
+<p>Во вложении находится обновлённый счёт за оказанные услуги в апреле 2026 г. В связи с изменением налогового резидентства компании просим провести оплату <strong>до 16:00 сегодня</strong>, чтобы избежать начисления пени и приостановки поставок.</p>
+<div style="background:#f5f5f5; padding:15px; border:1px solid #ccc; margin:15px 0; text-align:center;">
+  <span style="color:#d32f2f; font-weight:bold;">📎 Счёт №78912.pdf</span><br>
+  <a href="http://training-phishing-test.local/finance/invoice/78912.pdf" style="display:inline-block; margin-top:10px; color:#0066cc; text-decoration:underline;">Скачать документ</a>
+</div>
+<p>С уважением,<br><strong>Отдел бухгалтерии ООО "ЛогистикГрупп"</strong><br>📞 +7 (495) 000-00-00</p>
+</body>
+</html>
+------=_Part_INV_002--

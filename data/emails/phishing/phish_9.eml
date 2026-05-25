@@ -1,0 +1,39 @@
+From: it-support@corp-helpdesk-update.ru
+To: user@your-company.local
+Subject: =?UTF-8?B?SVQgSGVscGRlc2s6IFRyZWJ1ZXRzYSBuYXN0cm9qa2EgTUZBIGRvc3R1cGE=?=
+Date: Tue, 20 May 2026 08:10:15 +0300
+Message-ID: <mfa-setup-001@corp-helpdesk-update.ru>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_MFA_001"
+
+------=_Part_MFA_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Здравствуйте!
+
+В соответствии с новой политикой информационной безопасности все сотрудники обязаны активировать двухфакторную аутентификацию (MFA) до конца рабочей недели. Без активации доступ к корпоративным ресурсам будет ограничен.
+
+Перейдите по ссылке для настройки: http://training-phishing-test.local/it/mfa-setup
+
+С уважением,
+Служба IT-поддержки
+------=_Part_MFA_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="font-family:Segoe UI, Arial, sans-serif; color:#242424; line-height:1.5;">
+<p><strong>Здравствуйте!</strong></p>
+<p>В соответствии с новой политикой информационной безопасности все сотрудники обязаны активировать двухфакторную аутентификацию (MFA) до конца рабочей недели.</p>
+<div style="background:#fff4e5; border-left:4px solid #ff9800; padding:12px; margin:15px 0;">
+  <strong>⏰ Срок выполнения:</strong> до 23:59 пятницы. Без активации доступ к Outlook и SharePoint будет временно заблокирован.
+</div>
+<p style="margin:20px 0;"><a href="http://training-phishing-test.local/it/mfa-setup" style="background:#0078d4; color:#fff; padding:10px 24px; text-decoration:none; border-radius:4px; font-weight:bold;">Настроить MFA сейчас</a></p>
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:20px 0;">
+<p style="font-size:12px; color:#666;">Служба IT-поддержки | it-support@corp-helpdesk-update.ru<br><em>Это автоматическое уведомление. Не отвечайте на данное письмо.</em></p>
+</body>
+</html>
+------=_Part_MFA_001--

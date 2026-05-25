@@ -1,0 +1,43 @@
+From: hr-learn@corp-training-portal.ru
+To: all-staff@your-company.local
+Subject: =?UTF-8?B?4pyTIE9iMHphdGVsZW5uYWlhIG9idWNoZW5pZSBwbyBJSi1iZXpvcGFzbm9zdGkg0L7RgNC+0LXQvdCw0Y8=?=
+Date: Tue, 20 May 2026 13:55:40 +0300
+Message-ID: <hr-train-2026@corp-training-portal.ru>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_HR_004"
+
+------=_Part_HR_004
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Уважаемые коллеги,
+
+Напоминаем о необходимости прохождения обязательного курса "Информационная безопасность 2026". Прохождение курса влияет на ежегодную аттестацию.
+
+Срок завершения: 25.05.2026. Если тест не будет пройден в срок, доступ к внутренней сети будет приостановлен.
+
+Начать обучение: http://training-phishing-test.local/hr/course/start
+
+С уважением, Отдел развития персонала
+------=_Part_HR_004
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="font-family:Arial, sans-serif; color:#333;">
+<div style="max-width:650px; margin:0 auto;">
+<h2 style="color:#d32f2f;">⚠️ Напоминание: обязательный курс</h2>
+<p>Уважаемые коллеги,</p>
+<p>Напоминаем о необходимости прохождения обязательного курса <strong>"Информационная безопасность 2026"</strong>. Прохождение курса влияет на ежегодную аттестацию и допуск к рабочим системам.</p>
+<table style="width:100%; border-collapse:collapse; margin:20px 0; border:1px solid #ddd;">
+  <tr style="background:#f8f9fa;"><td style="padding:8px; border:1px solid #ddd;"><strong>Срок завершения</strong></td><td style="padding:8px; border:1px solid #ddd;">25 мая 2026, 18:00</td></tr>
+  <tr><td style="padding:8px; border:1px solid #ddd;"><strong>Статус</strong></td><td style="padding:8px; border:1px solid #ddd; color:#d32f2f; font-weight:bold;">Не начат</td></tr>
+</table>
+<p><a href="http://training-phishing-test.local/hr/course/start" style="background:#2e7d32; color:#fff; padding:12px 24px; text-decoration:none; border-radius:4px; display:inline-block;">Начать курс</a></p>
+<p style="margin-top:30px; font-size:13px; color:#666;">С уважением,<br>Отдел развития персонала<br>hr-learn@corp-training-portal.ru</p>
+</div>
+</body>
+</html>
+------=_Part_HR_004--

